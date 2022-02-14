@@ -3,8 +3,6 @@
 
 
 
-
-
 - 🌱 I’m currently learning **advanced neural networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yefim-g](https://github.com/yefim-g)
