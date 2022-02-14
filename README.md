@@ -12,6 +12,7 @@
 - ⚡ Fun fact **I like finding new patterns using data**
 
 <h3 align="left">Connect with me:</h3>
+ygorodnitskiy@gmail.com
 <p align="left">
 </p>
 
