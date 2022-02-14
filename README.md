@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yefim Gorodnitskiy</h1>
 <h3 align="center">A Data Scientist exploring the data world</h3>
 
+
+
+
+
 - 🌱 I’m currently learning **advanced neural networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yefim-g](https://github.com/yefim-g)
