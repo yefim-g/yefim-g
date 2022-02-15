@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yefim Gorodnitskiy</h1>
 <h3 align="center">A Data Scientist exploring the data world</h3>
 
-
+A little about me: I have a machining background, where data was used always in order to ensure production was accurate. From there I continued my journey in data through the Data Science course at BloomTech. 
 
 - 🌱 I’m currently learning **advanced neural networks**
 
