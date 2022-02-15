@@ -3,6 +3,8 @@
 
 A little about me: I have a machining background, where data was used always in order to ensure production was accurate. From there I continued my journey in data through the Data Science course at BloomTech. Data is everywhere and personally, I think that manipulating and extracting accurate information from it can change the world in more ways that one can imagine!
 
+![Alt Text](https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb)
+
 - 🌱 I’m currently learning **advanced neural networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yefim-g](https://github.com/yefim-g)
