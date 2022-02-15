@@ -3,7 +3,7 @@
 
 A little about me: I have a machining background, where data was used always in order to ensure production was accurate. From there I continued my journey in data through the Data Science course at BloomTech. Data is everywhere and personally, I think that manipulating and extracting accurate information from it can change the world in more ways that one can imagine!
 
-![Data-gif](https://bit.ly/3sJJrtG.gif)
+![Data-gif](https://giphy.com/gifs/glitch-retro-computer-AjgcvZVHJf9r1UQrgZ.gif)
 
 - 🌱 I’m currently learning **advanced neural networks**
 
