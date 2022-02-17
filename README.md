@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yefim Gorodnitskiy</h1>
 <h3 align="center">A Data Scientist exploring the data world</h3>
 
-A little about me: I have a machining background, where data was used always in order to ensure production was accurate. From there I continued my journey in data through the Data Science course at BloomTech. Data is everywhere and personally, I think that manipulating and extracting accurate information from it can change the world in more ways that one can imagine!
+A little about me: I have a machining background, where data was always used in order to ensure production was accurate. From there I continued my journey in data through the Data Science course at BloomTech. Data is everywhere and personally, I think that manipulating and extracting accurate information from it can change the world in more ways that one can imagine!
 
 ![Data-gif](https://media4.giphy.com/media/AjgcvZVHJf9r1UQrgZ/giphy.gif?cid=ecf05e47s6hon09qrtzwvv179x7dyh7qpwog5brt8q7fvc2y&rid=giphy.gif&ct=g)
 
