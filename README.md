@@ -9,11 +9,12 @@ A little about me: I have a machining background, where data was always used in 
 
 - 👨‍💻 All of my projects are available at [https://github.com/yefim-g](https://github.com/yefim-g)
 
-- 📫 How to reach me **ygorodnitskiy@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/yg2002/](https://www.linkedin.com/in/yg2002/)
 
 - ⚡ Fun fact **I like finding new patterns using data**
+
+
+- 📫 How to reach me **ygorodnitskiy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 ygorodnitskiy@gmail.com
