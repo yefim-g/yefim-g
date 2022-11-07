@@ -14,10 +14,10 @@ A little about me: I have a machining background, where data was always used in 
 - ⚡ Fun fact **I like finding new patterns using data**
 
 
-- 📫 How to reach me **ygorodnitskiy@gmail.com**
+- 📫 How to reach me **gorodnitskiyy@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
-ygorodnitskiy@gmail.com
+gorodnitskiyy@icloud.com
 <p align="left">
 </p>
 
